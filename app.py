@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Replace with your FastAPI server URL
-API_BASE_URL = "http://localhost:8000"  # or public IP/domain
+API_BASE_URL = "https://chatbot-5-dn6z.onrender.com"  # or public IP/domain
 
 st.set_page_config(page_title="PDF QA System", layout="centered")
 
