@@ -8,3 +8,4 @@ sentence-transformers
 ollama
 python-multipart
 openai
+streamlit
